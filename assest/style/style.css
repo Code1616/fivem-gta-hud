@@ -1,0 +1,301 @@
+* {
+    margin: 0;
+    
+}
+
+body {
+    font-family: 'Unbounded', cursive;
+    font-size: 0.7rem;
+    text-align: center;
+    /* image : https://www.hindustantimes.com/technology/7-major-changes-gamers-want-to-see-in-gta-6-from-gta-5-101695197514516.html */
+    background: url(../img/gta-6-2560x1440-jason-vice-city-fan-art-4k-24943_1695200540731_1695200546669.avif);
+    background-size: cover;
+}
+
+.head-hud {
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+}
+
+.status {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hud {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    
+}
+
+.hud span {
+    padding: 4px;
+}
+
+img {
+    display: inline;
+}
+
+.playerid {
+    display: flex;
+}
+
+.ul {
+    margin-top: 2px;
+    justify-content: start;
+    display: flex;
+    background-color: rgba(245, 245, 245, 0.384);
+    margin-right: 9px;
+    border-radius: 3px;
+    text-align: start;
+}
+
+.sp {
+    padding: 9px;
+}
+
+.player-location {
+    display: flex;
+    padding: 8px;
+    text-align: center;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+    /* visibility: hidden; */
+    flex-direction: column;
+}
+
+/* .playerid .playertime .Number-of-players {
+    padding: 3;
+} */
+
+.playertime {
+    display: flex;
+    text-align: center;
+    
+    
+}
+
+
+.time-img {
+    padding-right: 5px;
+}
+
+.amozesh {
+    margin-top: 1px;
+}
+
+
+
+.Number-of-players {
+    display: flex;
+    text-align: center;
+}
+
+.staff-zone img {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-top: 47px;
+    margin-right: 16px;
+
+}
+
+.staff-zone P {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-top: 7px;
+    font-size: 0.4rem;
+    margin-right: 9px;
+}
+
+.id-logo {
+    color: black;
+}
+
+.id {
+    color: black;
+    padding-top: 1px;
+}
+
+.time {
+    color: black;
+    padding-top: 1px;
+}
+
+.staff-zone-text {
+    color: white;
+}
+
+.heel {
+    margin-top: 67px;
+    display: flex;
+}
+
+.Shield{
+    margin-top: 67px;
+    display: flex;
+}
+
+.darsad-shield {
+    color: white;
+    padding: 3px;
+}
+
+.darsad-jon {
+    color: white;
+}
+
+.status {
+    margin-left: 21px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 137px;
+}
+
+.darsad-jon {
+    padding: 3px;
+}
+
+.Water {
+    display: flex;
+}
+
+.food {
+    display: flex;
+}
+
+.darsad-food {
+    color: white;
+    padding: 3px;
+}
+
+.brain {
+    display: flex;
+}
+
+.darsad-brain {
+    color: white;
+    padding: 3px;
+}
+
+.darsad-Water {
+    color: white;
+    padding: 3px;
+}
+
+.child {
+    margin: 7px;
+}
+
+ .khat img {
+    display: grid;
+    position: fixed;
+    top: 340px;
+    flex-direction: column;
+} 
+
+.map {
+    display: flex;
+    justify-content: left;
+    margin-top: 277px;
+    margin-left: 16%;
+   
+}
+
+.show-loca {
+    display: flex;
+}
+
+.show-loca p  {
+     color: white;
+     font-size: 1rem;
+     padding: 9px;
+}
+
+.map-location {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.map-location-2 {
+    display: block;
+    flex-direction: row;
+
+}
+
+.many-icon {
+    width: 120px;
+    height: 57px;
+    margin-right: 8px;
+
+}
+
+.many img {
+    /* margin-right: ; */
+    
+}
+
+.many {
+    display: flex;
+    /* justify-content: right; */
+    /* align-items: center; */
+    /* margin-left: 100px; */
+}
+
+.pol-kif {
+    display: flex;
+    margin-top: 4px;
+    margin-right:97px;
+    position: fixed;
+}
+
+.logo-cash {
+    margin: 1px;
+}
+
+.pol-bank {
+    display: flex;
+    margin-top: 34px;
+    margin-right:97px;
+    position: fixed;
+}
+
+.pol-kif-text {
+    display: flex;
+    position: fixed;
+    margin-top: 7px;
+    margin-right: 24px;
+    font-size: 0.6rem;
+    color: #093200;
+}
+
+.pol-bank-text {
+    display: flex;
+    position: fixed;
+    margin-top: 38px;
+    margin-right: 24px;
+    font-size: 0.6rem;
+    color: white;
+}
+
+.f1-and {
+    display: flex;
+    position: absolute;
+    right: 1px;
+    justify-content: right;
+    margin-top: 100px;
+}
+
+.f1-and img {
+    width: 100px;
+
+}
