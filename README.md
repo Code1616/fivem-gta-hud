@@ -45,7 +45,7 @@ Here are some screenshots showcasing the HUD in action:
 
 1. Clone this repository into your server resources folder:  
    ```bash
-   git clone https://github.com/yourusername/fivem-gta-hud.git
+   git clone https://github.com/Code1616/fivem-gta-hud.git
    ```  
 
 2. Add the resource to your `server.cfg`:  
