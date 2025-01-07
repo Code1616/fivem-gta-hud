@@ -119,7 +119,7 @@ Replace the icons in the `img` directory with your own **SVG files**, ensuring t
 
 ## 📜 License  
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+This project is licensed under the **Unlicense**. See the [LICENSE](LICENSE) file for details.  
 
 ---
 
